@@ -62,10 +62,13 @@ Step 5: The term IF THIS THEN THAT means if something happens on the “This” 
 Step 6: Now you have to configure the Trigger by giving it an Event Name. I have named it “ESP” as shown below. You can use any event name, but remember this name for we have to use it later. Finally click on “Create Trigger”
 ![image](https://user-images.githubusercontent.com/19189211/42413813-d67897d0-8245-11e8-827c-d32c062e8268.png)
 
- Step 7: You should get the below Screen where, you have to configure the “That” Applet.  Click on the Plus icon near “that”
+Step 7: You should get the below Screen where, you have to configure the “That” Applet.  Click on the Plus icon near “that”
  ![five](https://user-images.githubusercontent.com/19189211/42413826-30a45802-8246-11e8-9078-e7cce1bcdaba.png)
  
- Step 8: Search for SMS Applet and click it. Then for choosing an Action click on “Send me SMS”. You will taken to the below screen, where you have to enter the text message that has to be sent to your mobile. Finally click on “Create action”
+Step 8: Search for SMS Applet and click it. Then for choosing an Action click on “Send me SMS”. You will taken to the below screen, where you have to enter the text message that has to be sent to your mobile. Finally click on “Create action”
+ ![six](https://user-images.githubusercontent.com/19189211/42413838-89695a50-8246-11e8-827d-b34aec6c725a.png)
+ 
+Step 9: You can review and Finish your Applet, it should be looking something like this below. Click on “Finish”
  
 
 
