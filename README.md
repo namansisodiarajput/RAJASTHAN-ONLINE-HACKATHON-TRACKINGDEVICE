@@ -103,6 +103,10 @@ alert message are going to user relative.
 ![screenshot_2018-07-07-15-00-09](https://user-images.githubusercontent.com/19189211/42414155-d8fcf5bc-824c-11e8-97dd-bdc3fab7374f.png)
 
 3.Emergency contact number,this app stores emergency contact number of users friends or families and sends location of user to that contact number
+![screenshot_2018-07-07-15-00-52](https://user-images.githubusercontent.com/19189211/42414179-4a0db944-824d-11e8-8eab-d1c805199280.png)
+
+4.Easily customizable ,you can make changes in contacts,invite friends,it provides user friendly interface and easy to use
+
 
 
 
