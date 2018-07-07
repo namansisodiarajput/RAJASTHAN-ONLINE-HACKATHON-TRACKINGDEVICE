@@ -30,6 +30,8 @@ ESP32 can post geolocation data to any server by using user mobile network acces
 we have uploaded ESP_GEO_LOCATION_ON_FIREBASE.ino just copy the code in arduino ide to see it in action.
 1. get the google apis keys -: https://console.developers.google.com/apis/dashboard?project=namanpractice&duration=PT1H
 2. make the database in firebase console and note the name of server -:
+![image1](https://user-images.githubusercontent.com/19189211/42413654-398a3fb2-8242-11e8-9293-dd956ed37bab.png)
+3. get the database secret setting->projectsetting->service account
 
 
 
