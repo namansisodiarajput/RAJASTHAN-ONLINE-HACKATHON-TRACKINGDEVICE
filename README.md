@@ -49,8 +49,12 @@ Now Register your Mobile number with that Applet here I have used the number “
 
 ![one](https://user-images.githubusercontent.com/19189211/42413741-55697d36-8244-11e8-8f7d-3ea2fd04f871.png)
 
-Step 3: Now we have configured one Applet, we will another Applet called Maker Webhooks, so search for it or use this link -: https://ifttt.com/join
+Step 3: Now we have configured one Applet, we will another Applet called Maker Webhooks, so search for it or use this link -: https://ifttt.com/maker_webhooks
 click on connect than you will prompt to this screen
+
+![two](https://user-images.githubusercontent.com/19189211/42413771-c33690a6-8244-11e8-9bf6-7b691d946c1c.png)
+
+Step 4: Now it is time to create our own Applet that could sync both the above applets. To do this navigate to My Applets -> New Applet, or follow this link -: https://ifttt.com/create?aea=true
 
 
 
