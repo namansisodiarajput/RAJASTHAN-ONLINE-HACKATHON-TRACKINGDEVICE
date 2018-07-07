@@ -100,6 +100,10 @@ alert message are going to user relative.
 ![screenshot_2018-07-07-14-55-32](https://user-images.githubusercontent.com/19189211/42414116-2237a016-824c-11e8-81c1-ba34b720802f.png)
 
 2. By pressing panic alarm sms with your coordinate is sent to your relative and nearby police station.
+![screenshot_2018-07-07-15-00-09](https://user-images.githubusercontent.com/19189211/42414155-d8fcf5bc-824c-11e8-97dd-bdc3fab7374f.png)
+
+3.Emergency contact number,this app stores emergency contact number of users friends or families and sends location of user to that contact number
+
 
 
 
