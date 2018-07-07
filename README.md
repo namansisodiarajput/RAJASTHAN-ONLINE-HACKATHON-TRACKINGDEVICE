@@ -55,6 +55,11 @@ click on connect than you will prompt to this screen
 ![two](https://user-images.githubusercontent.com/19189211/42413771-c33690a6-8244-11e8-9bf6-7b691d946c1c.png)
 
 Step 4: Now it is time to create our own Applet that could sync both the above applets. To do this navigate to My Applets -> New Applet, or follow this link -: https://ifttt.com/create?aea=true
+![three](https://user-images.githubusercontent.com/19189211/42413787-5480b6cc-8245-11e8-87f8-c881751d6b54.png)
+
+Step 5: The term IF THIS THEN THAT means if something happens on the “This” then we have do something on “that”. Here if the Maker Webhooks Applet is Triggered then an SMS must be sent. So click on “this” (the blue colour plus icon) and search for Maker Webhooks then click on it. Now, you will be asked to choose a Trigger, so click on “Receive a web request”
+
+Step 6: Now you have to configure the Trigger by giving it an Event Name. I have named it “ESP” as shown below. You can use any event name, but remember this name for we have to use it later. Finally click on “Create Trigger”
 
 
 
