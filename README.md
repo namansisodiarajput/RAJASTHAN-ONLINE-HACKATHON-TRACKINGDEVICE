@@ -69,6 +69,11 @@ Step 8: Search for SMS Applet and click it. Then for choosing an Action click on
  ![six](https://user-images.githubusercontent.com/19189211/42413838-89695a50-8246-11e8-827d-b34aec6c725a.png)
  
 Step 9: You can review and Finish your Applet, it should be looking something like this below. Click on “Finish”
+![seven](https://user-images.githubusercontent.com/19189211/42413855-e5847d38-8246-11e8-9463-c956b5cb1509.png)
+
+Step 10: Now, search for Maker Webhooks or use this link -: https://ifttt.com/maker_webhooks
+click on “Documentation”. You should see something like this below
+
  
 
 
