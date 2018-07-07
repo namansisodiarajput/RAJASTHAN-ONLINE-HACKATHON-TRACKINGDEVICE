@@ -60,6 +60,9 @@ Step 4: Now it is time to create our own Applet that could sync both the above a
 Step 5: The term IF THIS THEN THAT means if something happens on the “This” then we have do something on “that”. Here if the Maker Webhooks Applet is Triggered then an SMS must be sent. So click on “this” (the blue colour plus icon) and search for Maker Webhooks then click on it. Now, you will be asked to choose a Trigger, so click on “Receive a web request”
 
 Step 6: Now you have to configure the Trigger by giving it an Event Name. I have named it “ESP” as shown below. You can use any event name, but remember this name for we have to use it later. Finally click on “Create Trigger”
+![image](https://user-images.githubusercontent.com/19189211/42413813-d67897d0-8245-11e8-827c-d32c062e8268.png)
+
+ Step 7: You should get the below Screen where, you have to configure the “That” Applet.  Click on the Plus icon near “that”
 
 
 
