@@ -108,7 +108,14 @@ alert message are going to user relative.
 4.Easily customizable ,you can make changes in contacts,invite friends,it provides user friendly interface and easy to use
 ![screenshot_2018-07-07-15-01-21](https://user-images.githubusercontent.com/19189211/42414190-7fed42e6-824d-11e8-84e6-b9701d3aaa87.png)
 
-#### 5.main function of this app is to find nearby phpne where the same application is installed in other words it sends notificaton to nearby people where same application has been installed.so more the user of this application the safer will be the town.
+#### 5.main function of this app is to find nearby phone where the same application is installed in other words it sends notificaton to nearby people where same application has been installed.so more the user of this application the safer will be the town.
+![screenshot_2018-07-07-15-01-39](https://user-images.githubusercontent.com/19189211/42414209-fcd788a2-824d-11e8-8a2d-92274bfb5182.png)
+
+
+
+
+
+
 
 
 
