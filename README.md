@@ -47,6 +47,11 @@ Step 1: Visit www.IFTTT.com and sign up for new ID if you don’t have one alrea
 Step 2: Search for SMS Applet or visit this link-:https://ifttt.com/sms 
 Now Register your Mobile number with that Applet here I have used the number “00919612365489” as an example number. Always include the leading “00” followed by your country code and then your mobile number. Here I am from India hence my country code is “91” and my mobile number is “96123456789”. Once the number is entered click on “Send Pin” and verify your mobile number.
 
+![one](https://user-images.githubusercontent.com/19189211/42413741-55697d36-8244-11e8-8f7d-3ea2fd04f871.png)
+
+Step 3: Now we have configured one Applet, we will another Applet called Maker Webhooks, so search for it or use this link -: https://ifttt.com/join
+click on connect than you will prompt to this screen
+
 
 
  
