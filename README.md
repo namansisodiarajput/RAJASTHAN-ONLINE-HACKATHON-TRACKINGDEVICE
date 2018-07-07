@@ -32,6 +32,20 @@ we have uploaded ESP_GEO_LOCATION_ON_FIREBASE.ino just copy the code in arduino 
 2. make the database in firebase console and note the name of server -:
 ![image1](https://user-images.githubusercontent.com/19189211/42413654-398a3fb2-8242-11e8-9293-dd956ed37bab.png)
 3. get the database secret setting->projectsetting->service account
+![image2](https://user-images.githubusercontent.com/19189211/42413676-8f07a4c0-8242-11e8-9714-54af5f54648c.png)
+
+now you have a google apis key,servername and database secret you can replace them in code.
+just upload ESP_GEO_LOCATION_ON_FIREBASE.ino uploaded above and happy code.
+
+#### ESP32 sending an alert message with coordinates through IFTTT service
+we are sending message with coordinates to all the people that we want.
+IFTTT is the free way to get all your apps and devices talking to each other.
+IFTTT -: https://ifttt.com/
+
+Step 1: Visit www.IFTTT.com and sign up for new ID if you don’t have one already. After registering you will be sent a mail to your E-mail ID verify it and you will be logged into IFTTTT.
+
+Step 2: Search for SMS Applet or visit this link-:https://ifttt.com/sms 
+Now Register your Mobile number with that Applet here I have used the number “00919612365489” as an example number. Always include the leading “00” followed by your country code and then your mobile number. Here I am from India hence my country code is “91” and my mobile number is “96123456789”. Once the number is entered click on “Send Pin” and verify your mobile number.
 
 
 
